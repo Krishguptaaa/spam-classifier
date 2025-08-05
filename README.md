@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📩 Spam Email Classifier
 
 A simple NLP-based Streamlit web app that classifies email or text messages as **Spam** or **Not Spam**, using a Logistic Regression model trained on a dataset from Kaggle.
@@ -6,7 +7,7 @@ A simple NLP-based Streamlit web app that classifies email or text messages as *
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-streamlit-cloud-link)  
+👉 [Click here to try the app]()  
 *(Update this after deploying)*
 
 ---
@@ -43,3 +44,4 @@ A simple NLP-based Streamlit web app that classifies email or text messages as *
 
 ## 📂 Project Structure
 
+=======
