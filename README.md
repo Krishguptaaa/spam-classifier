@@ -7,8 +7,8 @@ A simple NLP-based Streamlit web app that classifies email or text messages as *
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app]()  
-*(Update this after deploying)*
+👉 [Click here to try the app](https://vythiwkbhaxklffcercxkn.streamlit.app/)  
+
 
 ---
 
